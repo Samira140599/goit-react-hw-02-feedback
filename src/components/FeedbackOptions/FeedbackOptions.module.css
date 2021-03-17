@@ -1,0 +1,14 @@
+.button {
+  width: 100px;
+  height: 40px;
+  border-radius: 5px;
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+.container {
+  width: 450px;
+  margin: 30px auto;
+  display: flex;
+  justify-content: space-around;
+}
